@@ -331,7 +331,9 @@
 
 .resume_ {
   font-size: 30px;
-  color: blue;
+  color: black;
+  opacity: 0.8;
+  text-decoration: underline;
 }
 
 .about-area {
