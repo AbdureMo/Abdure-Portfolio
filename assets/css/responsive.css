@@ -149,6 +149,12 @@
 /* small mobile :320px. */
 
 @media (min-width: 240px) and (max-width: 479px) {
+
+	.name {
+		padding: 10px 0px;
+		font-size: 45px;
+	}
+
 	.logo a img {
 	    max-width: 32px;
 	}
